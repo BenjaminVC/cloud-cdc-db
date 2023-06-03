@@ -1,0 +1,13 @@
+<data month="4" day="22" year="2021">
+    <site id="1000102">
+        <name>HMO Medical Clinic</name>
+        <zipCode>98007</zipCode>
+    </site>
+    <vaccines>
+        <brand name="Pfizer">
+	    <total>1050</total>
+            <firstShot>800</firstShot>
+            <secondShot>250</secondShot>
+        </brand>
+    </vaccines>
+</data>

@@ -1,0 +1,13 @@
+<data month="5" day="1" year="2021">
+    <site id="1000103">
+        <name>UCLA Hospital</name>
+        <zipCode>90017</zipCode>
+    </site>
+    <vaccines>
+        <brand name="Moderna">
+	    <total>500</total>
+            <firstShot>350</firstShot>
+            <secondShot>150</secondShot>
+        </brand>
+    </vaccines>
+</data>

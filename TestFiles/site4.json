@@ -1,0 +1,29 @@
+{
+    "date" :
+    {
+        "month" : 5,
+        "day" : 5,
+        "year" : 2021
+    },
+    "site" :
+    {
+        "id" : "1000104",
+        "name" : "Ohio State University Hospital",
+        "zipCode" : "42159"
+    },
+    "vaccines" : [
+        {
+            "brand" : "Pfizer",
+            "total" : 1500,
+            "firstShot" : 1100,
+            "secondShot" : 400
+        },
+        {
+            "brand" : "Moderna",
+            "total" : 600,
+            "firstShot" : 350,
+            "secondShot" : 250
+        }
+    ]
+}
+

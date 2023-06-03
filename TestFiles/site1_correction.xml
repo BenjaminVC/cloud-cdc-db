@@ -1,0 +1,18 @@
+<data month="4" day="22" year="2021">
+    <site id="1000101">
+        <name>Bellevue Overlake Hospital</name>
+        <zipCode>98004</zipCode>
+    </site>
+    <vaccines>
+        <brand name="Pfizer">
+	    <total>800</total>
+            <firstShot>500</firstShot>
+            <secondShot>300</secondShot>
+        </brand>
+        <brand name="Moderna">
+	    <total>420</total>
+            <firstShot>300</firstShot>
+            <secondShot>120</secondShot>
+        </brand>
+    </vaccines>
+</data>

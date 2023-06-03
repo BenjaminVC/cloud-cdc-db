@@ -1,0 +1,23 @@
+{
+    "date" :
+    {
+        "month" : 5,
+        "day" : 3,
+        "year" : 2021
+    },
+    "site" :
+    {
+        "id" : "1000105",
+        "name" : "Harvard Medical School",
+        "zipCode" : "02104"
+    },
+    "vaccines" : [
+        {
+            "brand" : "Pfizer",
+            "total" : 730,
+            "firstShot" : 400,
+            "secondShot" : 330
+        }
+    ]
+}
+

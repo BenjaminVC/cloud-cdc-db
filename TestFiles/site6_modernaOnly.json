@@ -1,0 +1,23 @@
+{
+    "date" :
+    {
+        "month" : 5,
+        "day" : 3,
+        "year" : 2021
+    },
+    "site" :
+    {
+        "id" : "1000106",
+        "name" : "UW Medecine",
+        "zipCode" : "98007"
+    },
+    "vaccines" : [
+        {
+            "brand" : "Moderna",
+            "total" : 1110,
+            "firstShot" : 610,
+            "secondShot" : 500
+        }
+    ]
+}
+
